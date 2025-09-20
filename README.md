@@ -1,2 +1,11 @@
 # residence-property-practice
-Studi kasus Property Residence Web, praktik langsung 
+
+
+##### Alat
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Font Awesome
+- GSAP
+- AOS
